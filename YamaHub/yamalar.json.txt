@@ -1,0 +1,14 @@
+﻿[
+  {
+    "id": "FarCry",
+    "ad": "Far Cry",
+    "surum": "1.2",
+    "dosya": "farcry_yama_v1.2.zip"
+  },
+  {
+    "id": "GTA5",
+    "ad": "GTA 5",
+    "surum": "2.0",
+    "dosya": "gta5_yama_v2.0.zip"
+  }
+]
